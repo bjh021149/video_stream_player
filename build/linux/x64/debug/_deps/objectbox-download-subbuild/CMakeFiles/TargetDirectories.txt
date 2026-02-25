@@ -1,3 +1,0 @@
-/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-subbuild/CMakeFiles/objectbox-download-populate.dir
-/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-subbuild/CMakeFiles/edit_cache.dir
-/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-subbuild/CMakeFiles/rebuild_cache.dir
