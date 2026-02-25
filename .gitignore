@@ -1,0 +1,389 @@
+# Flutter
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+.pubspec.lock
+flutter-plugins
+.flutter-plugins
+.flutter-plugins-dependencies
+.fvm/
+.flutter/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+.metadata/
+
+# Android
+android/.gradle/
+android/.idea/
+android/gradle/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/**/build/
+android/**/proguard/
+android/**/lint/
+android/**/*.apk
+android/**/*.ap_
+android/**/*.dex
+android/**/*.class
+android/**/R.txt
+android/**/R.g.java
+android/**/R.g.kotlin
+android/**/R.g.dart
+android/**/output.json
+
+# iOS
+ios/.generated/
+ios/Flutter/.last_build_id
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/engine/
+ios/Flutter/ephemeral/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/**/GeneratedPluginRegistrant.*
+ios/Pods/
+ios/Runner.xcworkspace/xcuserdata/
+ios/Runner.xcodeproj/xcuserdata/
+ios/Runner.xcodeproj/project.xcworkspace/xcuserdata/
+ios/Runner/Assets.car
+ios/Runner/Info.plist
+ios/Runner/main.m
+ios/Runner/AppDelegate.swift
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
+ios/Runner/Runner-Bridging-Header.h
+ios/**/Flutter.framework
+
+# macOS
+macos/.generated/
+macos/Flutter/.last_build_id
+macos/Flutter/App.framework/
+macos/Flutter/Flutter.framework/
+macos/Flutter/Flutter.podspec
+macos/Flutter/engine/
+macos/Flutter/ephemeral/
+macos/Flutter/Generated.xcconfig
+macos/Flutter/flutter_export_environment.sh
+macos/Pods/
+macos/Runner.xcworkspace/xcuserdata/
+macos/Runner.xcodeproj/xcuserdata/
+macos/Runner.xcodeproj/project.xcworkspace/xcuserdata/
+macos/Runner/Assets.car
+macos/Runner/Info.plist
+macos/Runner/main.m
+macos/Runner/AppDelegate.swift
+
+# Linux
+linux/.generated/
+linux/build/
+linux/*/debug/
+linux/*/release/
+linux/flutter/ephemeral/
+linux/flutter/generated_plugin_registrant.*
+linux/flutter/generated_plugins.cmake
+
+# Windows
+windows/.generated/
+windows/build/
+windows/flutter/ephemeral/
+windows/flutter/generated_plugin_registrant.*
+windows/flutter/generated_plugins.cmake
+windows/runner/*.obj
+windows/runner/*.ilk
+windows/runner/*.pdb
+
+# Web
+web/**
+
+# Build
+build/
+.history/
+.sass-cache/
+*.dart.js
+*.js.map
+*.info.json
+*.dart.app.js
+*.dart.app.js.map
+*.dart.js.symbols
+*.dart.js.deps
+*.dart.js.deps.map
+*.dart.lib.js
+*.dart.lib.js.map
+*.dart.precompiled.js
+*.dart.precompiled.js.map
+*.dart.snapshot
+*.dart.snapshot.d
+*.dart.snapshot.deps
+*.dart.snapshot.deps.map
+*.dart.snapshot.js
+*.dart.snapshot.js.map
+
+# Coverage
+coverage/
+*.lcov
+
+# Test
+test-results/
+test-reports/
+*.test
+*.test.js
+*.test.js.map
+
+# ObjectBox
+objectbox-model.json
+objectbox.g.dart
+lib/objectbox.g.dart
+lib/objectbox-model.json
+
+# Local configuration files
+local.properties
+.env
+.env.*
+!env.example
+
+# Debugging and profiling
+*.prof
+*.profraw
+*.profile
+*.profdata
+*.trace
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variable files
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# Next.js build output
+.next
+
+# Nuxt.js build / generate output
+.nuxt
+dist
+
+# Gatsby files
+.cache/
+# Comment in the public line in if your project uses Gatsby and not 
+Next.js
+# https://nextjs.org/blog/next-9-1#public-directory-support
+# public
+
+# Storybook build outputs
+.out
+.storybook-out
+
+# vuepress build output
+.vuepress/dist
+
+# Serverless directories
+.serverless/
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB Local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# Temporary folders
+tmp/
+temp/
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*.old
+*.orig
+*.bkp
+lib_backup/
+pubspec_backup.yaml
+
+# User-specific files
+*.user
+*.userprefs
+*.sublime-workspace
+
+# Project files
+*.sublime-project
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Flutter/Dart analysis
+analysis_options.yaml.user
+.dart-code/
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Android build artifacts
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.aar
+
+# Gradle
+.gradle/
+gradle/
+!gradle/wrapper/
+gradlew
+gradlew.bat
+
+# Flutter web
+web/**
+
+# Flutter desktop
+linux/flutter/ephemeral/
+windows/flutter/ephemeral/
+macos/Flutter/ephemeral/
+
+# Third-party generated files
+*.freezed.dart
+*.g.dart
+*.chopper.dart
+*.reflectable.dart
+
+# Native builds
+*.so
+*.dll
+*.dylib
+*.exe
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# VS Code
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+
+# Flutter version management
+.fvm/
+
+# Flutter web compilation
+web/**
+
+# Firebase
+.firebase/
+firebase-debug.log
+firebase-export.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# C/C++ 
+*.o
+*.ko
+*.obj
+*.elf
+*.i
+*.ii
+*.d
+*.dll
+*.exe
+*.out
+*.app
+*.ipa
+
+# IntelliJ
+*.swp
+*.swo
+*~
