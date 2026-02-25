@@ -1,0 +1,14 @@
+# Target labels
+ objectbox-download-populate
+# Source files and their labels
+/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-subbuild/CMakeFiles/objectbox-download-populate
+/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-subbuild/CMakeFiles/objectbox-download-populate.rule
+/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-subbuild/CMakeFiles/objectbox-download-populate-complete.rule
+/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-subbuild/objectbox-download-populate-prefix/src/objectbox-download-populate-stamp/objectbox-download-populate-build.rule
+/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-subbuild/objectbox-download-populate-prefix/src/objectbox-download-populate-stamp/objectbox-download-populate-configure.rule
+/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-subbuild/objectbox-download-populate-prefix/src/objectbox-download-populate-stamp/objectbox-download-populate-download.rule
+/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-subbuild/objectbox-download-populate-prefix/src/objectbox-download-populate-stamp/objectbox-download-populate-install.rule
+/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-subbuild/objectbox-download-populate-prefix/src/objectbox-download-populate-stamp/objectbox-download-populate-mkdir.rule
+/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-subbuild/objectbox-download-populate-prefix/src/objectbox-download-populate-stamp/objectbox-download-populate-patch.rule
+/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-subbuild/objectbox-download-populate-prefix/src/objectbox-download-populate-stamp/objectbox-download-populate-test.rule
+/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-subbuild/objectbox-download-populate-prefix/src/objectbox-download-populate-stamp/objectbox-download-populate-update.rule

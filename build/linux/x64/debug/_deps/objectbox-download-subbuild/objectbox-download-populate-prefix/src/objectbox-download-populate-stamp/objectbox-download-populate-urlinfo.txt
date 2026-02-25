@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/bin/cmake;-P;/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-subbuild/objectbox-download-populate-prefix/src/objectbox-download-populate-stamp/download-objectbox-download-populate.cmake;COMMAND;/usr/bin/cmake;-P;/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-subbuild/objectbox-download-populate-prefix/src/objectbox-download-populate-stamp/verify-objectbox-download-populate.cmake;COMMAND;/usr/bin/cmake;-P;/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-subbuild/objectbox-download-populate-prefix/src/objectbox-download-populate-stamp/extract-objectbox-download-populate.cmake
+source_dir=/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps/objectbox-download-src
+work_dir=/home/linyu/aiCoder/video_stream_player/build/linux/x64/debug/_deps
+url(s)=https://github.com/objectbox/objectbox-c/releases/download/v5.1.0/objectbox-linux-x64.tar.gz
+hash=
+no_extract=
+
